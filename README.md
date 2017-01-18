@@ -1,4 +1,6 @@
-# ieee-homepage
+# IEEE-Homepage
+
+**Tasks**
 
 8/26/16
 * [X] TWO HOME BUTTONS->ONE HOME BUTTON, ONE ABOUT BUTTON
